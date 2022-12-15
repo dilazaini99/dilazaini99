@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilazaini99
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Introduction of Computer Science
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me at twitter @dill_zaini
 
